@@ -14,6 +14,10 @@ class ProductProvider extends Component {
     addToCart = () => {
         console.log("add detail")
     }
+    tester = () => {
+        console.log("State products yes: ", this.state.products[0].inCart);
+        console.log("Data products yes: ", storeProducts[0].inCart);
+    }
     render() {
         return (
             <ProductContext.Provider value={{
