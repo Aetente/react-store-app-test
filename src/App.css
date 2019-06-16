@@ -1,6 +1,6 @@
 :root {
-  --mainBlue: rgba(30,30, 240);
-  --lightBlue: rgba(130,130, 240);
+  --mainBlue: rgba(30,30, 140);
+  --lightBlue: rgba(140,140, 200);
   --mainWhite: rgb(240,240,240);
   --mainDark: rgb(40,40,40);
   --mainYellow: rgb(230, 154, 13);
